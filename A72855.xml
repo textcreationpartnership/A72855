@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The light of Britayne. A recorde of the honorable originall &amp; antiquitie of Britaine</title>
+            <author>Lyte, Henry, 1529?-1607.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72855</idno>
+            <idno type="STC">STC 17122.5</idno>
+            <idno type="STC">ESTC S125490</idno>
+            <idno type="EEBO-CITATION">99898208</idno>
+            <idno type="PROQUEST">99898208</idno>
+            <idno type="VID">135790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2082:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The light of Britayne. A recorde of the honorable originall &amp; antiquitie of Britaine</title>
+                  <author>Lyte, Henry, 1529?-1607.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed: [by J. Charlewood?],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>Anno. Domini. 1588.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank except for signature mark "A.i."; the last leaf is blank.</note>
+                  <note>Includes indexes.</note>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Signatures: A B⁶.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brutus the Trojan (Legendary character) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  To 1485 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135790:1"/>
+            <pb facs="tcp:135790:1"/>
+            <pb facs="tcp:135790:2"/>
+            <pb facs="tcp:135790:2" rendition="simple:additions"/>
+            <p>THE LIGHT OF BRITAYNE.</p>
+            <p>A Recorde of the hono<g ref="char:EOLhyphen"/>rable Originall &amp; Antiqui<g ref="char:EOLhyphen"/>tie of Britaine.</p>
+            <p>AT LONDON <hi>Printed: Anno. Domini. 1588.</hi>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:135790:3" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Queen Elizabeth</figDesc>
+                  <head>TSER</head>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:135790:3"/>
+            <head>¶ To the moſt high and mightie Princeſſe, Eliza<g ref="char:EOLhyphen"/>beth by the grace of God, Queene of England, Fraunce and Ireland: defen<g ref="char:EOLhyphen"/>dreſſe of the true, auncient, Catho<g ref="char:EOLhyphen"/>lique, and Apoſtolique faith. &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>OST dread ſoueraigne Ladie Elizabeth, by the grace of God: The Phae<g ref="char:EOLhyphen"/>nix of the worlde: The Angell of Englande: The bright Britona of Britayne: e<g ref="char:EOLhyphen"/>uen Britomartis Preſident of Bri<g ref="char:EOLhyphen"/>taine: The chaſt Diana of Calydonia ſylua Britanniae, <hi>terror ſylueſtry<g ref="char:EOLhyphen"/>bus apris:</hi> The moſt noble Lyoneſſe Atalanta: that keepeth Calydonia ſylua Britanniae: from Romiſh wolues and Foxes: And from the Antichri<g ref="char:EOLhyphen"/>ſtian wilde Boare figured by the wilde Boare of Calydon that was chaſed:
+<pb facs="tcp:135790:4"/>
+hunted: and firſte wounded by the chaſte Maiden Atalanta, a figure (as J take it) of your maieſtie, that hath wounded the wilde Boare, that raunged ouer all Calydonia ſylua Bri<g ref="char:EOLhyphen"/>tanniae, and ſpoiled the principall bran<g ref="char:EOLhyphen"/>ches of the fruitfull vines of Calydonia ſylua: and the fruitfull trees of Æto<g ref="char:EOLhyphen"/>lia, euen at Parth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n the principall towne of Ætolia, now called Atholl, in Britannia ſecunda.</p>
+            <p>To your moſt excellent maieſtie, whom I doubt not but our Meleager (euen Ieſus Chriſte the righteous) when he hath cut off the head of that monſtrous wilde Boare, ſhall at laſt take you to his ſpouſe: and encreſe your ioy with an eternall Diademe, and crowne of glorie. To your Maieſtie: to your grace: <hi>O Diua potens Ely<g ref="char:EOLhyphen"/>zabetha:</hi> my deere and dreade Soue<g ref="char:EOLhyphen"/>raigne: whom this day I doe beholde and ſee, (after diuers dangers &amp; trou<g ref="char:EOLhyphen"/>bles paſt, to the great ioy and comfort and to the good example of all your Subiects) to come to the Church and houſe of God amongſt his Saints in the
+<pb facs="tcp:135790:4"/>
+congregation: to giue all the honour and glorie vnto God: and in the zeale of a moſt Chriſtian Prince, to offer your ſelfe, and Scepter, a liuely ſacri<g ref="char:EOLhyphen"/>fice to the Lorde God of Hoſtes, who hath wrought wonders in your daies, by deliuering you his handmaiden and your faithfull Subiects (his people of Britayne) from the handes of your and our cruell enemies. To you I am come with this ſmall offering, for lack of a better, <hi>(The light of Britayne)</hi> my fealtie and bounden duety to your moſt excellent maieſtie, and my na<g ref="char:EOLhyphen"/>tiue Country, whom I pray GOD al<g ref="char:EOLhyphen"/>waies to bleſſe in his mercy, &amp; graunt your maieſtie, alwaies to tryumphe o<g ref="char:EOLhyphen"/>uer all your enemies, and to raigne o<g ref="char:EOLhyphen"/>uer vs for euer, if it be his bleſſed will.</p>
+            <closer>
+               <signed>Your humble and faithfull Subiect. Henry Lite, of Lyteſcarie.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135790:5"/>
+            <pb facs="tcp:135790:5"/>
+            <head>
+               <g ref="char:leaf">❧</g> The Light of <hi>Britayne.</hi>
+            </head>
+            <p>
+               <hi>BRitania maior,</hi>
+               <note place="margin">Britannia of Britona.</note> (the Countrie of the bright <hi>Britona,</hi> called Bri<g ref="char:EOLhyphen"/>tomartis the preſide<g ref="char:cmbAbbrStroke">̄</g>t of Britayne) that is to ſay,<note place="margin">Diana.</note> the chaſte <hi>Diana</hi> of Calydonia ſylua: <hi>Aſtrorum decus: Syluarum dea: caſta, et innupta: cu<g ref="char:EOLhyphen"/>ſtos, et cultrix nemorum: Metuenda virago: terror ſylueſtribus apris.</hi>
+            </p>
+            <p>This <hi>Britannia maior,</hi>
+               <note place="margin">Britannia of Brito<g ref="char:EOLhyphen"/>martis.</note> (the coun<g ref="char:EOLhyphen"/>trie of the bright <hi>Britona</hi> called Britomartis) was firſt founde by <hi>Brute</hi> of Albania:<note place="margin">Brutes ſtile</note> the Conquerer of the Greekes: the mightie deli<g ref="char:EOLhyphen"/>uerer of the Troyans: &amp; the firſt founder of the noble Britaynes.</p>
+            <p>Who by the Oracle of the bright <hi>Britona,</hi>
+               <note place="margin">Diana Bri<g ref="char:EOLhyphen"/>tonas Ora<g ref="char:EOLhyphen"/>cle.</note> called <hi>Diana</hi> of Calydonia ſylua <hi>(Aſtrorum decus)</hi> brought the Remaines of the Albanian
+<pb facs="tcp:135790:6"/>
+Troians of Aſia:<note place="margin">Albania, Calydonia Ætolia</note> fro<g ref="char:cmbAbbrStroke">̄</g> Albania Ca<g ref="char:EOLhyphen"/>lydonia ſylua: &amp; <hi>Ætolia</hi> in Greece to Albania: Calydonia ſylua: and Ætolia in Britayne.</p>
+            <p>Before whoſe moſt happie, and fortunate arriuall:<note place="margin">Britannia a wildernes.</note> there was ney<g ref="char:EOLhyphen"/>ther Towne, Cittie, Countrie, Ry<g ref="char:EOLhyphen"/>uer, region: or place of name in Britayne for Britannia (at <hi>Brutes</hi> arriuall) was no Britannia, but a rude and ſolitarie deſart or wilder<g ref="char:EOLhyphen"/>nes without name,<note place="margin">Ferarum altrix.</note> 
+               <hi>Ferarum altrix,</hi> that is to ſay, a very nurſcerie, or place of ſtore, for wilde beaſts. The Countries &amp; Regions of Britaine, were then all ouergrowne wyth woods, repleniſhed with all kinde of ſauage and cruell wilde beaſtes: as Lyons, Beares, Wolues, Foxes, wilde Boares, and all kind of game belonging to the Chaſe. Beſides, diuers other kinds of wild beaſtes and Cattell: eſpecially, a certayne kinde of white monſtruous wilde Bulles, and Kine with long ſhagde curled hayre, and manes: which
+<pb facs="tcp:135790:6"/>
+kinde of Cattell were as fierce and cruell as Lyons, and could neuer be tamed by mans arte, as ye ſhal find it regiſtred &amp; recorded in our au<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cient Chronicles, and noted in the the common Dictionaries: vppon theſe words Caledonia: and Cale<g ref="char:EOLhyphen"/>donia ſylua Britanniae,<note place="margin">Caledonia for Caly<g ref="char:EOLhyphen"/>donia.</note> alwaies mi<g ref="char:EOLhyphen"/>ſtaken &amp; corruptly written, Cale<g ref="char:EOLhyphen"/>donia for Calydonia, becauſe the reaſon why our Country was firſt called Caledonia ſylua, was no bet<g ref="char:EOLhyphen"/>ter knowne to the auncient Ro<g ref="char:EOLhyphen"/>maines in <hi>Iulius Caeſars</hi> time, then it is at this daie knowne to diuers our Antiquaries &amp; Chroniclers of Britayne:<note place="margin">Bucanons Calden.</note> as we may ſee how <hi>Bu<g ref="char:EOLhyphen"/>canon</hi> deriueth Caledonia ſylua from Calden: and <hi>Camden</hi> (the author of the new Britannia, which lacketh <hi>Brutes</hi> light the glorye of Britayne) deriueth Calydonia ſyl<g ref="char:EOLhyphen"/>ua from <hi>Kaled.</hi>
+               <note place="margin">Camdens Kaled.</note> But <hi>Camdens</hi> faire daugheer <hi>Kaled,</hi> is yet too young to bee the mother of <hi>Calydon,</hi> or Calydonia ſylua Britanniae. And
+<pb facs="tcp:135790:7"/>
+               <hi>Bucanons</hi> Calden, or Haſell ſticke, is too weake to bee the mother,<note place="margin">Calydon, was the ſon of Ætolus the ſon of Mars.</note> of Calydon. For (Calydon) of whom Calydonia ſylua by <hi>Ætolia</hi> in Greece tooke name, was the ſonne <hi>Ætolus,</hi> who was the ſon of <hi>Mars</hi> the God of battell.</p>
+            <p>
+               <note place="margin">Mars the father of Ætolus. Parthaon &amp; Britona.</note>
+               <hi>Mars</hi> the God of battell, was the father of <hi>Ætolus:</hi> of Parthaon, &amp; of the bright <hi>Britona</hi> called Brito<g ref="char:EOLhyphen"/>martis the preſident of Britayne.</p>
+            <p>
+               <hi>Ætolus</hi> the ſonne of <hi>Mars,</hi> and brother to the bright <hi>Britona,</hi> was the father of <hi>Calydon</hi> of, whom Ca<g ref="char:EOLhyphen"/>lydonia ſylua by <hi>Ætolia</hi> in Greece (the mother of our Calydonia ſyl<g ref="char:EOLhyphen"/>ua the generall name of all Bri<g ref="char:EOLhyphen"/>tayne) but eſpecially of Calydonia ſylua ſecunda,<note place="margin">Calydonia ſylua prima</note> 
+               <note place="margin">Calydonia ſylua ſe<g ref="char:EOLhyphen"/>cunda.</note> which is Scotlande, called Britania ſecunda, in which parte of Britayne at this day is the moſt ancient Towne of Parthaon,<note place="margin">Parthaon in Ætolia.</note> nowe called Perthe: and S. Iohns towne, the principal towne of <hi>Æ<g ref="char:EOLhyphen"/>tolia,</hi>
+               <note place="margin">Ætolia Atholl.</note> nowe called Atholl, a Region or cou<g ref="char:cmbAbbrStroke">̄</g>trey of Britannia, Albania, or
+<pb facs="tcp:135790:7"/>
+Calydonia ſylua ſecunda:<note place="margin">Calydon woode.</note> where the great Calydon woode, which beeginneth at Striueling (called the <hi>Dolorus Mount</hi>) and runneth forth through Mentieth, &amp; Strat<g ref="char:EOLhyphen"/>herne,<note place="margin">Calydoniu<g ref="char:cmbAbbrStroke">̄</g> Cathaneſſe.</note> to <hi>Ætholia</hi> (that fruitfull region of <hi>Grampius Mount</hi>) which reacheth to Lochquhaber, and to <hi>Calidonium Promontorium,</hi> which is Cathaneſſe or Orcha: the an<g ref="char:EOLhyphen"/>gle, poynt, cape, forland, or landes ende of Scotland.</p>
+            <p>This Calydonia ſylua Britannia,<note place="margin">Clydon,</note> was the daughter of <hi>Calidonia ſylua</hi> by <hi>Ætolia</hi> in Greece, who toke his Originall from <hi>Calydon</hi> the ſon of <hi>Ætolus,</hi> the ſonne of <hi>Mars.</hi>
+            </p>
+            <p>
+               <hi>Ætolia,</hi>
+               <note place="margin">Ætolia.</note> nowe called Atholl in Britayne, is the daughter of <hi>Æto<g ref="char:EOLhyphen"/>lia,</hi> cittie of Albania, and Calydonia ſylua in Greece, ſo called of <hi>Æto<g ref="char:EOLhyphen"/>lus</hi> the ſonne of <hi>Mars.</hi>
+            </p>
+            <p>Parthaon:<note place="margin">Parthaon</note> now called Perthe or Saint <hi>Iohns</hi> Towne, the principall Towne of <hi>Ætolia</hi> in Scotlande,<note place="margin">Britona Britomartis</note> toke his glorious name of <hi>Parthaon</hi>
+               <pb facs="tcp:135790:8"/>
+the ſonne of <hi>Mars,</hi> brother to the bright <hi>Britona,</hi> called Britomartis, the preſident of Britayne, of whom al Britannia (containing al the cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tries and regions, of England, Scot<g ref="char:EOLhyphen"/>land, Wales, and Cornwall: called of <hi>Alexander Necham,</hi> in his booke <hi>De diuina ſapientia Bruti tellus,</hi>) tooke the moſte glorious name of Britannia.</p>
+            <p>
+               <note place="margin">Britanniae of Britona.</note>For <hi>Brute</hi> of Albania: the foun<g ref="char:EOLhyphen"/>der of Britaine, came to this Iſle by the Oracle of <hi>Britona,</hi> called <hi>Diana</hi> of Calydonia ſylua, wherefore, hee called this Iſle Britannia, of the bright <hi>Britona</hi> (called Britomartis) the preſident of Britayne.</p>
+            <p>
+               <note place="margin">Albania: of Albania.</note>The ſame <hi>Brute</hi> alſo who was borne in Albania, baniſhed to Al<g ref="char:EOLhyphen"/>bania: and the firſt founder of Bri<g ref="char:EOLhyphen"/>tayne called Albania: called all our cou<g ref="char:cmbAbbrStroke">̄</g>trey of Britaine, <hi>Albion, ſeu Al<g ref="char:EOLhyphen"/>bania:</hi> not of the white Rocks and Cleues as ſome me<g ref="char:cmbAbbrStroke">̄</g> do ſuppoſe, but of Albania in Aſia: &amp; Albania Epi<g ref="char:EOLhyphen"/>ri in Greece, the Country of <hi>Hele<g ref="char:EOLhyphen"/>nus</hi>
+               <pb facs="tcp:135790:8"/>
+and <hi>Andromache,</hi> the Queene of Albania Epiri, from whence <hi>Brute</hi> of Albania brought the Al<g ref="char:EOLhyphen"/>banian Troyans, the founders of Britayne.</p>
+            <p>The ſame <hi>Brute</hi> of Albania,<note place="margin">Calydonia ſylua of Calydonia.</note> the founder of Britayne: who by the Oracle of the bright <hi>Britona,</hi> cal<g ref="char:EOLhyphen"/>led <hi>Diana</hi> of Calydonia ſylua, did bring the remaines of the Troy<g ref="char:EOLhyphen"/>ans from Albania: Calydonia ſyl<g ref="char:EOLhyphen"/>ua: and <hi>Ætolia</hi> in Greece, to Al<g ref="char:EOLhyphen"/>bania Calydonia ſylua: and <hi>Æto<g ref="char:EOLhyphen"/>lia</hi> in Britayne: named al our coun<g ref="char:EOLhyphen"/>trie Calydonia ſylua Britannia, but eſpecially Scotlande called Britan<g ref="char:EOLhyphen"/>nia: Albania: and Calydonia ſylua ſecunda. Whereas at this day. Yee ſhall finde Calydonia ſylua: Caly<g ref="char:EOLhyphen"/>don Towne: Calydon Caſtell, Ca<g ref="char:EOLhyphen"/>lydon Promontorie. With that moſt auncient Towne of Parthaon in <hi>Ætolia,</hi>
+               <note place="margin">The Bri<g ref="char:EOLhyphen"/>taines of the genera<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> of Mars &amp; Hercules.</note> moſt glorious recordes of the honorable Originall of the noble <hi>Britaines,</hi> the remaines of the <hi>Troyans,</hi> that ſprang of the genera<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:135790:9"/>
+of <hi>Mars</hi> and <hi>Hercules,</hi> and o<g ref="char:EOLhyphen"/>ther the immortall Goddes of the <hi>Gentils.</hi> Bright ſtarres at this daie, whoſe mantions in the firmament are well knowne to all Philoſo<g ref="char:EOLhyphen"/>phers &amp; Aſtronomers of our time. So that to conclude, the <hi>Britaynes</hi> ſprang not <hi>ex coluuie omnium gen<g ref="char:EOLhyphen"/>tium,</hi>
+               <note place="margin">Bucanon.</note> neither of Dogs (as <hi>Buchanon</hi> ſaith he is able rather to proue) but they ſprang of the <hi>Albanian Troy<g ref="char:EOLhyphen"/>ans,</hi> the principal Souldiours of the world, whom <hi>Brute</hi> brought from Albania, Calydonia ſylua, and <hi>Æ<g ref="char:EOLhyphen"/>tolia</hi> in Greece, to Albania, Caly<g ref="char:EOLhyphen"/>donia, ſylua &amp; <hi>Ætolia</hi> in Britayne.</p>
+            <p>
+               <note place="margin">Cronicles and written Records of Brute.</note>Whereof we haue a multitude of moſt glorious Recordes &amp; Chro<g ref="char:EOLhyphen"/>nicles, written, and printed, confir<g ref="char:EOLhyphen"/>med by the teſtimonie of <hi>Iulius Cae<g ref="char:EOLhyphen"/>ſar,</hi> by <hi>Elutherius</hi> Pope: by Parlia<g ref="char:EOLhyphen"/>ment holden at Norham vppon Twede: &amp; at Lyncolne in the time of King <hi>Edward</hi> the firſt, who by his Letters ſent from Lyncolne to Pope <hi>Boniface,</hi>
+               <note place="margin">Brutes hi<g ref="char:EOLhyphen"/>ſtory coun<g ref="char:EOLhyphen"/>ted a fable.</note> dooth approue
+<pb facs="tcp:135790:9"/>
+               <hi>Brutes</hi> Hiſtorie to bee no fable, as the Critici of our time do eſteeme it, who will not beleeue our aunci<g ref="char:EOLhyphen"/>ent written Recordes, although co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>firmed by Emperors, Kings, Popes and Parliaments, neither the teſti<g ref="char:EOLhyphen"/>monie of Strangers. Wherfore by the Oracle of <hi>Diana,</hi>
+               <note place="margin">The Swans of Carie, are ſtirred vp to main<g ref="char:EOLhyphen"/>taine Brutes Hiſtorie.</note> called Brito<g ref="char:EOLhyphen"/>na the preſident of Britayne: And by the Oracle of <hi>Diana Lucifera:</hi> that is to ſay, <hi>
+                  <g ref="char:V">Ʋ</g>enus</hi> called <hi>Boſpho<g ref="char:EOLhyphen"/>rus:</hi> the bright Queene of Phry<g ref="char:EOLhyphen"/>gia: and <hi>Caria</hi> the mother of <hi>Ae<g ref="char:EOLhyphen"/>neas</hi> and the Graces, of who<g ref="char:cmbAbbrStroke">̄</g> came <hi>Brute</hi> of Albania, the founder of Britayne: who brought in <hi>Carius,</hi> a noble prince of Lydia and Caria, with the people of Carie, &amp; Swans of Carie into Britayne. By the O<g ref="char:EOLhyphen"/>racles aforeſayd,<note place="margin">The Swans wil main<g ref="char:EOLhyphen"/>taine the veritie of the Brittiſh Hiſtorie.</note> the Swans of Ca<g ref="char:EOLhyphen"/>rie in Britayne, are now ſtirred vp to maintain the veritie of the Brit<g ref="char:EOLhyphen"/>tiſh Hiſtorie. By the gods of the Gentils. <hi>Diana: Apollo: <g ref="char:V">Ʋ</g>enus: Mars: Mercurie:</hi> &amp;c. Whoſe
+<pb facs="tcp:135790:10"/>
+Temples our forefathers,<note place="margin">Dianas Te<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ple of Troia noua.</note> the Ge<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tils of the Troyan race, erected in diuers Countries and Regions of Britayne, eſpecially at <hi>Troia noua,</hi> nowe called London in Britayne,<note place="margin">Diana Tau<g ref="char:EOLunhyphen"/>ropolia Thoantea Dea.</note> where the <hi>Troynouants</hi> did ſome<g ref="char:EOLhyphen"/>times ſacrifice Bulles, Bullox and Stags, to <hi>Diana Tauropolia,</hi> whom the Gentils called the Queene of Heauen. Which was the ſame <hi>Di<g ref="char:EOLhyphen"/>ana</hi> called <hi>Bellona,</hi>
+               <note place="margin">Diana Bel<g ref="char:EOLhyphen"/>lona of Yorke.</note> whom the Bri<g ref="char:EOLhyphen"/>gantes honored at Yorke, <hi>Brigan<g ref="char:EOLhyphen"/>tium ciuitas:</hi> and what were theſe Brigantes I pray you? <hi>Herodian</hi> ſaith,<note place="margin">Briges Phryges. Brigantes.</note> that the Briges, Phryges, and Brigantes were all one, wherupon I conclude, that the Brigantes, that is to ſay, our Northen Britaynes, were Phrygian Troyans. The Bri<g ref="char:EOLhyphen"/>gantes of Britayne,<note place="margin">Brigantes.</note> are the people of Yorkeſhire, Richmondſhire, Lancaſhire, Durham, Weſtmer<g ref="char:EOLhyphen"/>land,<note place="margin">Abij, Picti, Agathyrſi,</note> and Cumberland: hard to the Pictes wall. Where the Abij and Picti Agathyrſi dwell, about <hi>Abus
+<pb facs="tcp:135790:10"/>
+Aeſtuarium:</hi>
+               <note place="margin">Abus Aeſtuariu<g ref="char:cmbAbbrStroke">̄</g>.</note> nowe called Hum<g ref="char:EOLhyphen"/>ber.</p>
+            <p>And what were theſe Abij, but Albanian Troyans,<note place="margin">Abij, Albani.</note> that came alſo from Abus Ryuer of Albania Epi<g ref="char:EOLhyphen"/>ri. And the auncient Britaynes cal<g ref="char:EOLhyphen"/>led the Picti Agathyrſi, what were they,<note place="margin">Agathyrſi.</note> euen Scythian Troyans of Al<g ref="char:EOLhyphen"/>bania, who ſprang of <hi>Scythes</hi> and <hi>Agathyrſus,</hi> the ſonnes of <hi>Hercules,</hi>
+               <note place="margin">Scythes. Agathyrſus</note> who ſometimes raigned in Troy. And let not the Scythian Scots diſ<g ref="char:EOLhyphen"/>daine their name,<note place="margin">Scythian Troyans.</note> ſeeing they were Troyans, for the famous Cittie of Troy in Phrygia, the heade of all Aſia, was in Scythia.</p>
+            <p>The noble Troyans were called Taurini, and Tauroſcythe,<note place="margin">Troyans called Tau<g ref="char:EOLhyphen"/>rini, &amp; Tau<g ref="char:EOLhyphen"/>roſcythi.</note> of a fa<g ref="char:EOLhyphen"/>mous Mountaine of Aſia, called <hi>Taurus Mount,</hi>
+               <note place="margin">Taurus in Caria.</note> which runneth through all Aſia: a great parte of the Mountaine Taurus, endeth in Caria,<note place="margin">Taurus the mantion of Venus.</note> which is a Countrey of Aſia belonging to Troy. <hi>
+                  <g ref="char:V">Ʋ</g>enus</hi> called <hi>Boſphorus,</hi> the mother of <hi>Aeneas</hi>
+               <pb facs="tcp:135790:11"/>
+and the Graces, (of whome came <hi>Brute</hi> of Albania the founder of Britayne) was Queene of Phrygia and Caria: The famous Ryuer of <hi>Maeander</hi> is in Caria.<note place="margin">Maeander Ryuer of Caria, gol<g ref="char:EOLhyphen"/>den ſandes, ſinging Swannes.</note> This <hi>Mae<g ref="char:EOLhyphen"/>ander</hi> Ryuer, hath golden ſands &amp; ſinging Swannes, that ſometime ſerued <hi>
+                  <g ref="char:V">Ʋ</g>enus</hi> Queene of Phrygia and Caria: wherfore the Swannes of Caria,<note place="margin">Swannes of Carie, Sig<g ref="char:EOLhyphen"/>nettes of Troy.</note> and Signettes of Troy in Britayne, muſt alwaies ſinge of Troy and Troyans.</p>
+            <p>The Daughters of Heauen and Earth:<note place="margin">Ryuers of Britayne, are Records of Brute.</note> that is to ſaie, <hi>Iſis, Themis Rhea, Thetis, Abus, Arius, Ala<g ref="char:EOLhyphen"/>nus, Ax, Tameres,</hi> and all our fa<g ref="char:EOLhyphen"/>mous Ryuers of Britayne, with the <hi>Deucalion</hi> Sea, and Iſlandes of Bri<g ref="char:EOLhyphen"/>tayne, eſpecially <hi>Archadia, Aemo<g ref="char:EOLhyphen"/>nia,</hi> and <hi>Arachne,</hi> are glorious Re<g ref="char:EOLhyphen"/>cordes of <hi>Brute</hi> &amp; the Troyans the founders of Britayne.</p>
+            <p>
+               <note place="margin">Townes &amp; Citties, Records of Brute.</note>Diuers our moſt au<g ref="char:cmbAbbrStroke">̄</g>cient towne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Citties of Britayne, as Oxford vpon <hi>Iſis,</hi> and <hi>Themis:</hi> Troia no<g ref="char:EOLhyphen"/>ua,
+<pb facs="tcp:135790:11"/>
+vpon <hi>Iſis, Themis,</hi> and <hi>Rhea Al<g ref="char:EOLhyphen"/>banorum:</hi> Yorke <hi>Brigantium ciui<g ref="char:EOLhyphen"/>tas: Antandros,</hi> turned to S. An<g ref="char:EOLhyphen"/>dros: <hi>Parthaon</hi> turned to S. Iohns towne: <hi>Albanum ciuitas,</hi> turned to S. Albanes: Cheſter and Doriſce<g ref="char:EOLhyphen"/>ſtria, with the auncient Townes of Derbie, and Leiceſter, and Ty<g ref="char:EOLhyphen"/>anton vppon Tamares Ryuer of Britaine, with diuers other townes and Citties of Britayne, are Re<g ref="char:EOLhyphen"/>cordes of <hi>Brute</hi> and the Troyans founders of Britayne.</p>
+            <p>The diuers nations and people of Britayne, as the Troynouaunts,<note place="margin">Diuers na<g ref="char:EOLhyphen"/>tions and people of Britayne Recordes of Brute.</note> the Brigantes, and Scotobrigantes, the people of Albania, Calydonia, and Ætolia: the Iberi: the Albani, &amp; Georgij: the people of Derbie and Leiceſter: the people of Che<g ref="char:EOLhyphen"/>ſter, that came from Ceſtria Epiri,<note place="margin">Tanton vp<g ref="char:EOLhyphen"/>pon Tama<g ref="char:EOLhyphen"/>res, or Tone Ry<g ref="char:EOLhyphen"/>uer.</note> with the Dores, Ioues, and Cares, and the Tamarites of Tyanton, commonlie called Tanton, al theſe are Recordes of the noble people
+<pb facs="tcp:135790:12"/>
+of Greece and Aſia, the Remaines of the Troyans that came into Bri<g ref="char:EOLhyphen"/>tayne with <hi>Brute</hi>
+            </p>
+            <p>
+               <note place="margin">Princes, Noble men and Gen<g ref="char:EOLhyphen"/>tlemen, Re<g ref="char:EOLhyphen"/>cordes of Brute.</note>To theſe, adde the Catalogue or Regiſter of the auncient Prin<g ref="char:EOLhyphen"/>ces, Noble men, and Gentlemen of Britayne. Recordes of <hi>Brute,</hi> and the Troyans, founders of Britayne.</p>
+            <trailer>FINJS.</trailer>
+         </div>
+         <div type="list">
+            <pb facs="tcp:135790:12"/>
+            <p>
+               <g ref="char:leaf">❧</g> A Catalogue or Regiſter of auncient Princes, noble men and Gentlemen of Bri<g ref="char:EOLhyphen"/>tayne: whereof ſome remayne to this day. Records to confirme the honourable Originall of the Bry<g ref="char:EOLhyphen"/>taynes, that ſprang of the remaines of the Albanian Troyans, the foun<g ref="char:EOLhyphen"/>ders of Britayne: which <hi>Brute</hi> brought from the Countreyes of Iſis and Themis, and from Alba<g ref="char:EOLhyphen"/>nia, Calydonia ſylua, and Ætolia in Greece, to Albania, Calydonia ſylua, and Ætolia in Britaine. Be<g ref="char:EOLhyphen"/>fore whoſe arriuall, there was nei<g ref="char:EOLhyphen"/>ther Towne, Cittie, Countrie, Ry<g ref="char:EOLhyphen"/>uer, Region, or place of name in Britayne.</p>
+            <list>
+               <pb facs="tcp:135790:13"/>
+               <item>
+                  <hi>Brute.</hi>
+               </item>
+               <item>
+                  <hi>Corineus.</hi>
+               </item>
+               <item>
+                  <hi>Locrine.</hi>
+               </item>
+               <item>
+                  <hi>Camber.</hi>
+               </item>
+               <item>
+                  <hi>Albanacte.</hi>
+               </item>
+               <item>
+                  <hi>Madan.</hi>
+               </item>
+               <item>
+                  <hi>Mempricius.</hi>
+               </item>
+               <item>
+                  <hi>Ebranke,</hi> and his twenty ſonnes.</item>
+               <item>
+                  <hi>Brute greene ſhielde.</hi>
+               </item>
+               <item>
+                  <hi>Aſſaracus,</hi> and <hi>Cicilius,</hi> &amp;c.</item>
+               <item>
+                  <hi>Belinus</hi> &amp; <hi>Bren<g ref="char:EOLhyphen"/>nus.</hi>
+               </item>
+               <item>
+                  <hi>Cambra,</hi> or <hi>Cam<g ref="char:EOLunhyphen"/>bria, Antenors</hi> wife.</item>
+               <item>
+                  <hi>Cambra, Belinus</hi> daughter.</item>
+               <item>
+                  <hi>Conidagus</hi> Kinge of Albania, ſlewe <hi>Morgan</hi> at Glamorga<g ref="char:cmbAbbrStroke">̄</g>.</item>
+               <item>
+                  <hi>Conidagus,</hi> buil<g ref="char:EOLhyphen"/>ded the Tem<g ref="char:EOLhyphen"/>ple of <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nerua,</hi> at Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gor in Wal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; the Tem<g ref="char:EOLunhyphen"/>ple of <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> at Parthaon now S. Iohn towne of Æ<g ref="char:EOLunhyphen"/>tolia in Sco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lande: Alba<g ref="char:EOLunhyphen"/>nia ſecunda.</item>
+               <item>
+                  <hi>Aruiragus,</hi> i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whoſe daye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ioſeph</hi> of Ara<g ref="char:EOLunhyphen"/>mathia prea<g ref="char:EOLunhyphen"/>ched in Bri<g ref="char:EOLunhyphen"/>tayne.</item>
+               <item>
+                  <hi>Leile.</hi>
+               </item>
+               <item>
+                  <hi>Androgeus,</hi> bro<g ref="char:EOLunhyphen"/>ther to <hi>Caſſi<g ref="char:EOLunhyphen"/>belanus,</hi> thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Androgeus,</hi> let <hi>Iulius Cae<g ref="char:EOLunhyphen"/>ſar</hi> into Bri<g ref="char:EOLhyphen"/>tayne.</item>
+               <item>
+                  <hi>Pyrrhus.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:135790:13"/>
+                  <hi>Alexander Ar<g ref="char:EOLhyphen"/>cadius.</hi>
+               </item>
+               <item>
+                  <hi>Alexander Au<g ref="char:EOLhyphen"/>dax.</hi>
+               </item>
+               <item>
+                  <hi>Achaius.</hi>
+               </item>
+               <item>
+                  <hi>Ætolus.</hi>
+               </item>
+               <item>
+                  <hi>Helena.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oile.</hi>
+               </item>
+               <item>
+                  <hi>Conſtantine.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raye.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erſie.</hi>
+               </item>
+               <item>
+                  <hi>Dercie.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arie.</hi>
+               </item>
+               <item>
+                  <hi>Buſir,</hi> or</item>
+               <item>
+                  <hi>Bouſir.</hi>
+               </item>
+               <item>
+                  <hi>Cicell.</hi>
+               </item>
+               <item>
+                  <hi>Cydne.</hi>
+               </item>
+               <item>
+                  <hi>Dennis.</hi>
+               </item>
+               <item>
+                  <hi>Bridgis.</hi>
+               </item>
+               <item>
+                  <hi>Andros.</hi>
+               </item>
+               <item>
+                  <hi>Carowe.</hi>
+               </item>
+               <item>
+                  <hi>Caros.</hi>
+               </item>
+               <item>
+                  <hi>Tracie.</hi>
+               </item>
+               <item>
+                  <hi>Rheſe ap Rheſus.</hi>
+               </item>
+               <item>
+                  <hi>Oen,</hi> or <hi>Owen,</hi> King of Caly<g ref="char:EOLhyphen"/>don.</item>
+               <item>
+                  <hi>Brent,</hi> the ſonne of <hi>Hercules.</hi>
+               </item>
+               <item>
+                  <hi>Thinn.</hi>
+               </item>
+               <item>
+                  <hi>Euance.</hi>
+               </item>
+               <item>
+                  <hi>Bryce.</hi>
+               </item>
+               <item>
+                  <hi>Hill.</hi>
+               </item>
+               <item>
+                  <hi>Drake.</hi>
+               </item>
+               <item>
+                  <hi>Calais.</hi>
+               </item>
+               <item>
+                  <hi>Nele.</hi>
+               </item>
+               <item>
+                  <hi>Gryne.</hi>
+               </item>
+               <item>
+                  <hi>Dorill.</hi>
+               </item>
+               <item>
+                  <hi>Hodie.</hi>
+               </item>
+               <item>
+                  <hi>Crane.</hi> &amp;c.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:135790:14"/>
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+                  <head>LETVS CARIAE CVGNVS ARMA VIRVMQVE CANO</head>
+               </figure>
+            </p>
+            <pb facs="tcp:135790:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
